@@ -113,3 +113,7 @@ After setting up the database and dependencies, you can run the application.
 python ticket_booking.py
 ```
 This will launch the GUI, allowing you to register, book tickets, view movie details, and more.
+
+
+## Contact
+For any questions or comments, please reach out bhuvani1102@gmail.com.
